@@ -62,6 +62,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1"
         android:layout_marginBottom="47.5dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PlainText2" />
     <LinearLayout
         android:orientation="horizontal"
         android:minWidth="25px"
@@ -77,7 +81,7 @@
             android:text="+"
             android:layout_width="wrap_content"
             android:layout_height="41.5dp"
-            android:id="@+id/btnPlus"
+            android:id="@+id/btnPlusCal"
             android:background="@android:color/holo_green_light"
             android:paddingTop="@dimen/abc_action_bar_overflow_padding_end_material"
             android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material"
@@ -86,7 +90,7 @@
             android:text="-"
             android:layout_width="wrap_content"
             android:layout_height="41.5dp"
-            android:id="@+id/btnMinus"
+            android:id="@+id/btnMinusCal"
             android:background="@android:color/holo_purple"
             android:padding="@dimen/abc_action_bar_overflow_padding_start_material"
             android:layout_margin="@dimen/abc_button_padding_horizontal_material"
@@ -95,7 +99,7 @@
             android:text="*"
             android:layout_width="wrap_content"
             android:layout_height="41.5dp"
-            android:id="@+id/btnMul"
+            android:id="@+id/btnMulCal"
             android:background="@android:color/holo_red_dark"
             android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material"
             android:textSize="@dimen/abc_action_bar_icon_vertical_padding_material" />
@@ -103,7 +107,7 @@
             android:text="/"
             android:layout_width="108.0dp"
             android:layout_height="41.5dp"
-            android:id="@+id/btnDivide"
+            android:id="@+id/btnDivideCal"
             android:background="@android:color/holo_green_light"
             android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material"
             android:textSize="@dimen/abc_action_bar_icon_vertical_padding_material" />
