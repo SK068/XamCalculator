@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamCalculator", "XamCalculator.csproj", "{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8E11A0-D562-40DE-96F4-A03BA5EBD8CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08AC3B94-01A9-4043-AD08-35BD740512AD}
+	EndGlobalSection
+EndGlobal
